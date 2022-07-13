@@ -1,5 +1,5 @@
 {
-  "name": "laravel-shopify-api",
+  "name": "laravelshopify/api",
   "description": "Shopify PHP SDK to interact with the Shopify API.",
   "require": {
     "guzzlehttp/guzzle": "~7.0",
